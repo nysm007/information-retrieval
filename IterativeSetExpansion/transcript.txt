@@ -1,0 +1,10 @@
+Parameters:
+Client Key      = AIzaSyClVW-iN4ZPlOuWBPoZ_wPYCpGSCWT1LmI
+Engine Key      = 009351493534667843800:hf-txjxwl2y
+Relation        = Work_For
+Threshold       = 0.35
+Query           = bill gates microsoft
+# of Tuples     = 10
+Loading necessary libraries; this will take a few seconds...
+=========== Iteration: 1 - Query: bill gates microsoft ===========
+Processing: https://news.microsoft.com/exec/bill-gates/

@@ -1,0 +1,402 @@
+Parameters:
+Client Key      = AIzaSyClVW-iN4ZPlOuWBPoZ_wPYCpGSCWT1LmI
+Engine Key      = 009351493534667843800:hf-txjxwl2y
+Relation        = Work_For
+Threshold       = 0.35
+Query           = bill gates microsoft
+# of Tuples     = 10
+Loading necessary libraries; this will take a few seconds...
+=========== Iteration: 1 - Query: bill gates microsoft ===========
+Processing: https://news.microsoft.com/exec/bill-gates/
+Relations extracted from this website: 0(Overall: 0)
+Processing: https://en.wikipedia.org/wiki/Bill_Gates
+=============== EXTRACTED RELATION ===============
+Sentence:  Mary Maxwell Gates Website gatesnotes.com Signature William Henry Gates III -LRB- born October 28 , 1955 -RRB- is an American business magnate , investor , author , philanthropist , and co-founder of the Microsoft Corporation along with Paul Allen .
+RelationType: Work_For | Confidence=0.26798726444135224 | EntityType1= ORGANIZATION | EntityValue1= Corporation | EntityType2= PEOPLE | EntityValue2= Allen
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- 7 -RSB- In June 2006 , Gates announced that he would be transitioning from full-time work at Microsoft to part-time work and full-time work at the Bill & Melinda Gates Foundation .
+RelationType: Work_For | Confidence=0.29213226357528754 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Years later , Ballmer succeeded Gates as Microsoft 's CEO .
+RelationType: Work_For | Confidence=0.33028150209323437 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Ballmer
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  As of January 2014 , most of Gates ' assets are held in Cascade Investment LLC , an entity through which he owns stakes in numerous businesses , including Four Seasons Hotels and Resorts , and Corbis Corp. -LSB- 71 -RSB- On February 4 , 2014 , Gates stepped down as chairman of Microsoft to become Technology Advisor alongside new CEO Satya Nadella .
+RelationType: Work_For | Confidence=0.37891746988710556 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In 2004 , he became a director of Berkshire Hathaway , the investment company headed by long-time friend Warren Buffett .
+RelationType: Work_For | Confidence=0.4437710008969822 | EntityType1= ORGANIZATION | EntityValue1= Hathaway | EntityType2= PEOPLE | EntityValue2= Buffett
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Specifically , the foundation is supporting the International Rice Research Institute in developing Golden Rice , a genetically modified rice variant used to combat Vitamin A deficiency .
+RelationType: Work_For | Confidence=0.40622122992834303 | EntityType1= ORGANIZATION | EntityValue1= Institute | EntityType2= PEOPLE | EntityValue2= Rice
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In 1999 , Gates donated $ 20 million to the Massachusetts Institute of Technology -LRB- MIT -RRB- for the construction of a computer laboratory named the `` William H. Gates Building '' that was designed by architect Frank Gehry .
+RelationType: Work_For | Confidence=0.445540294239112 | EntityType1= ORGANIZATION | EntityValue1= Institute | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- 113 -RSB- The Maxwell Dworkin Laboratory of the Harvard John A. Paulson School of Engineering and Applied Sciences is named after the mothers of both Gates and Microsoft President Steven A. Ballmer , both of whom were students -LRB- Ballmer was a member of the School 's graduating class of 1977 , while Gates left his studies for Microsoft -RRB- , and donated funds for the laboratory 's construction .
+RelationType: Work_For | Confidence=0.5042113074754715 | EntityType1= ORGANIZATION | EntityValue1= School | EntityType2= PEOPLE | EntityValue2= Laboratory
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Gates posted the video after Facebook founder Mark Zuckerberg challenged him to do so in order to raise awareness for the disease ALS -LRB- amyotrophic lateral sclerosis -RRB- .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- 156 -RSB- Books , films , social media and radio Books To date , Bill Gates has written two books : The Road Ahead , written with Microsoft executive Nathan Myhrvold and journalist Peter Rinearson , was published in November 1995 .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Myhrvold
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  His choice of things to take on a desert island were , for music : `` Blue Skies '' by Willie Nelson ; book : The Better Angels of Our Nature by Steven Pinker ; and luxury item : a DVD Collection of Lectures from The Teaching Company .
+RelationType: Work_For | Confidence=0.25202324178509483 | EntityType1= ORGANIZATION | EntityValue1= Company | EntityType2= PEOPLE | EntityValue2= Nelson
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Some of these include : the Honorable John Dingell , the longest serving Member of Congress , Bill Gates , founder and CEO of the Microsoft Corporation , and Donnald K. Anderson , former Clerk of the House .
+RelationType: Work_For | Confidence=0.37587617647038185 | EntityType1= ORGANIZATION | EntityValue1= Corporation | EntityType2= PEOPLE | EntityValue2= Anderson
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Hard Drive : Bill Gates and the Making of the Microsoft Empire .
+RelationType: Work_For | Confidence=0.2916491864319105 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 13(Overall: 13)
+Processing: https://www.theverge.com/2017/8/15/16148370/bill-gates-microsoft-shares-sale-2017
+=============== EXTRACTED RELATION ===============
+Sentence:  Bill Gates gives away 64 million Microsoft shares in largest donation since 2000 - The Verge clock menu more-arrow no yes Log In or Sign Up Log In Sign Up Tech Science Culture Cars Reviews Longform Video Circuit Breaker Forums Podcasts Store More Tech Apple Google Microsoft Apps Photography Virtual Reality Business Design All Tech Science Space Energy Health Environment All Science Culture Web TV Film Games Comics Music All Culture Cars Ride-Sharing Cars Mass Transit Aviation Rideables Autonomy All Transportation Reviews Phones Laptops Cameras Tablets Headphones Smartwatches VR Headsets This is my Next More from Verge Guidebook Longform Video Circuit Breaker Forums Podcasts Store ✕ Microsoft Tech Bill Gates gives away 64 million Microsoft shares in largest donation since 2000 New , 23 comments by Tom Warren@tomwarren Aug 15 , 2017 , 7:11 am EDT share tweet Linkedin Microsoft co-founder Bill Gates is reducing his stake in the company to just 1.3 percent , after holding 24 percent of the software maker back in 1996 .
+RelationType: Work_For | Confidence=0.48317660388102346 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  The SEC filing also reveals that Melinda Gates holds nearly 425,000 Microsoft shares .
+RelationType: Work_For | Confidence=0.3357761960446243 | EntityType1= ORGANIZATION | EntityValue1= SEC | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Former Microsoft CEO Steve Ballmer is still the largest holder of Microsoft stock , followed by Gates and then current Microsoft CEO Satya Nadella .
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Ballmer
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Amazon founder Jeff Bezos is edging closer , though .
+RelationType: Work_For | Confidence=0.464965290606408 | EntityType1= ORGANIZATION | EntityValue1= Amazon | EntityType2= PEOPLE | EntityValue2= Bezos
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 4(Overall: 17)
+Processing: https://www.biography.com/people/bill-gates-9307520
+=============== EXTRACTED RELATION ===============
+Sentence:  Bill Gates Biography - Biography.comPeopleNostalgiaCelebrityHistory & CultureCrime & ScandalVideoHip HopJoinSubscribe to NewsletterAboutPeopleNostalgiaCelebrityHistory & CultureCrime & ScandalVideoHip HopJoinHomeBill Gates Biography.comBusiness Leader , Entrepreneur , Philanthropist -LRB- 1955 -- -RRB- 25.5 KSHARESQuick FactsNameBill GatesOccupationBusiness Leader , Entrepreneur , PhilanthropistBirth DateOctober 28 , 1955 -LRB- age 61 -RRB- Did You Know?Bill Gates is one of the richest men alive.Did You Know?Bill Gates dropped out of Harvard to create Microsoft with friend Paul Allen.Did You Know?In 2014 , Gates stepped down as Microsoft 's chairman to focus on charitable work at his foundation , the Bill and Melinda Gates Foundation.EducationLakeside School , Harvard CollegePlace of BirthSeattle , WashingtonZodiac SignScorpioCite This PageEntrepreneur Bill Gates founded the world 's largest software business , Microsoft , with Paul Allen , and subsequently became one of the richest men in the world.IN THESE GROUPSFamous Lakeside School AlumniFamous People Born on October 28Famous BillionairesFamous People Born in WashingtonShow All GroupsFamous People Born in 1955Famous ScorpiosFamous Business LeadersFamous LeftiesCelebrities With Court-side SeatsFamous People Who Founded CharitiesFamous People in ComputingGenerous DonorsFamous People Who Were KnightedModern Titans of TechFamous People Born in United StatesFamous People Born in SeattleFamous People Who Started BusinessesFamous DropoutsTech GiantsFamous People in EducationFamous People Named GatesFamous People Named BillFamous Harvard College AlumniEntrepreneurFamous Philanthropists -LCB- -LCB- current.i + 1 -RCB- -RCB- of 12 `` '' quotes `` Success is a lousy teacher .
+RelationType: Work_For | Confidence=0.43514185377828724 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Paul
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In February 2014 , Gates announced that he was stepping down as Microsoft 's chairman to focus on charitable work at his foundation , the Bill and Melinda Gates Foundation .21 Gallery21 ImagesNet Worth and HouseIn March 1986 , Bill Gates took Microsoft public with an initial public offering -LRB- IPO -RRB- of $ 21 per share , making him an instant millionaire at age 31 .
+RelationType: Work_For | Confidence=0.5542033589611612 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Bill
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Wife and Children In 1987 , a 23-year-old Microsoft product manager named Melinda French caught the eye of Bill Gates , then 32 .
+RelationType: Work_For | Confidence=0.34135631612533157 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  READ ARTICLE : 7 Fun Facts About Bill Gates.The Bill and Melinda Gates FoundationIn 1994 , Bill and Melinda Gates established the William H. Gates Foundation , which was dedicated to supporting education , world health and investment in low-income communities .
+RelationType: Work_For | Confidence=0.26766739309351917 | EntityType1= ORGANIZATION | EntityValue1= Foundation | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In 2006 , Gates announced he was transitioning himself from full-time work at Microsoft to devote more quality time to the foundation .
+RelationType: Work_For | Confidence=0.2918387034976559 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In February 2014 , Gates stepped down as chairman of Microsoft in order to move into a new position as technology adviser ; longtime Microsoft CEO Steve Ballmer was replaced by 46-year-old Satya Nadella.Gates continues to devote much of his time and energy to the work of the Bill & Melinda Gates Foundation .
+RelationType: Work_For | Confidence=0.37891746988710556 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 6(Overall: 23)
+Processing: http://www.telegraph.co.uk/technology/0/bill-gates/
+=============== EXTRACTED RELATION ===============
+Sentence:  Microsoft founder , world 's richest man and philanthropist Fill 1 Microsoft founder Bill Gates has been the world 's richest man since May 2013 .
+RelationType: Work_For | Confidence=0.48317660388102346 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Credit : AFP/Getty Images Telegraph Reporters 1 August 2017 • 6:00 am With $ 89 -LRB- # 67bn -RRB- billion in the bank , Microsoft founder Bill Gates has been the world 's richest man since May 2013 .
+RelationType: Work_For | Confidence=0.48317660388102346 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Paul Allen and Bill Gates with IBM personal computers after signing a software contract with IBM in 1981 .
+RelationType: Work_For | Confidence=0.3098188195314543 | EntityType1= ORGANIZATION | EntityValue1= IBM | EntityType2= PEOPLE | EntityValue2= Allen
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` Google kicked our butts , '' said Gates in a 2005 interview , when he also branded Microsoft 's decision not to pursue a dedicated search engine from the outset as `` stupid as hell '' .
+RelationType: Work_For | Confidence=0.49666831723341304 | EntityType1= ORGANIZATION | EntityValue1= Google | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 4(Overall: 27)
+Processing: http://www.zdnet.com/article/bill-gates-stake-in-microsoft-is-now-just-1-3-percent/
+=============== EXTRACTED RELATION ===============
+Sentence:  Edition : Asia Australia Europe India United Kingdom United States ZDNet around the globe : ZDNet Belgium ZDNet China ZDNet France ZDNet Germany ZDNet Korea ZDNet Japan Search Go Videos Smart Cities Windows 10 Cloud Innovation Security Tech Pro more ZDNet Academy Digital Transformation Microsoft Mobility IoT Enterprise Software Hardware See All Topics White Papers Downloads Reviews Galleries Videos NewslettersAll WritersLog In to ZDNETJoin ZDNetAbout ZDNetManage ProfileNewslettersAuthor AlertsRecent ActivityLog Out Go Menu Videos Smart Cities Windows 10 Cloud Innovation Security Tech Pro ZDNet Academy Digital Transformation Microsoft Mobility IoT Enterprise Software Hardware See All Topics White Papers Downloads Reviews Galleries Videos Log In to ZDNET Join ZDNet About ZDNet Manage Profile Newsletters Author Alerts Recent Activity Log Out us Asia Australia Europe India United Kingdom United States ZDNet around the globe : ZDNet Belgium ZDNet China ZDNet France ZDNet Germany ZDNet Korea ZDNet Japan Bill Gates ' stake in Microsoft is now just 1.3 percent Microsoft cofounder Bill Gates is continuing to reduce his holdings in the Redmond software and services giant with his latest donation of 64 million shares .
+RelationType: Work_For | Confidence=0.33936862806876167 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  By Mary Jo Foley for All About Microsoft | August 15 , 2017 -- 14:16 GMT -LRB- 07:16 PDT -RRB- | Topic : Microsoft 0 Microsoft cofounder Bill Gates donated 64 million shares of Microsoft , worth an estimated $ 4.6 billion in early June , according to a just-released filing with the Securities & Exchange Commission.As a result , Gates now has a 1.3 percent stake left in the company he founded with Paul Allen , by Bloomberg 's estimates .
+RelationType: Work_For | Confidence=0.48317660388102346 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Gates is the second largest , and current Microsoft CEO Satya Nadella is No. 3 .
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Nadella
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  For now , Gates remains the richest man in the world.PREVIOUS AND RELATED COVERAGE Bill Gates ' biggest Microsoft product regret : WinFSIn his first AMA on Reddit , Microsoft Chairman Bill Gates calls WinFS the Microsoft product he most wished had made it to market.Bill Gates working on new Microsoft ` Personal Agent ' technologyMicrosoft founder Bill Gates is working on a new ` Personal Agent ' project with Microsoft , he disclosed during his Reddit AMA.One year after Bill Gates ' ` retirement ' : What 's different?Would Microsoft be seen as a more formidable , stronger company if Gates were still its primary talking head and Chief Software Architect ?
+RelationType: Work_For | Confidence=0.38914452047101206 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 4(Overall: 31)
+Processing: https://www.cnbc.com/2017/09/25/bill-gates-microsoft-ceo-satya-nadella-talk-about-leadership.html
+=============== EXTRACTED RELATION ===============
+Sentence:  Bill Gates , Microsoft CEO Satya Nadella talk about leadership HOMEEDITION News Economy Finance Health Care Real Estate Wealth Autos Earnings Energy Life Media Politics Retail Commentary Special Reports Asia Europe CFO Council Markets Pre-Markets U.S. Asia Europe Stocks Commodities Currencies Bonds Funds ETFs Investing Trading Nation Trader Talk Financial Advisors Personal Finance Etf Street Portfolio Watchlist Stock Screener Fund Screener Tech Mobile Social Media Enterprise Gaming Cybersecurity Tech Guide Make It Entrepreneurs Leadership Careers Money Specials Primetime Video Top Video Latest Video U.S. Video Asia Video Europe Video CEO Interviews Analyst Interviews Full Episodes Shows Watch Live CNBC U.S. Business Day CNBC U.S. Primetime CNBC Asia-Pacific CNBC Europe CNBC World Full Episodes MoreLog In | RegisterLog OutNews Economy Finance Health Care Real Estate Wealth Autos Consumer Earnings Energy Life Media Politics Retail Commentary Special Reports Asia Europe CFO Council Pro View All News & Analysis Video PRO Talks PRO Uncut Kensho Stats Take a Tour Subscribe Markets Pre-Markets U.S. Asia Europe Stocks Commodities Currencies Bonds Funds ETFs Make It Entrepreneurs Leadership Careers Money Specials Primetime Investing Trading Nation Trader Talk Financial Advisors Personal Finance Etf Street Portfolio Watchlist Stock Screener Fund Screener Tech Mobile Social Media Enterprise Gaming Cybersecurity Tech Guide Video Top Video Latest Video U.S. Video Asia Video Europe Video CEO Interviews Analyst Interviews Full Episodes Shows CNBC U.S. Business Day CNBC U.S. Primetime CNBC Asia-Pacific CNBC Europe CNBC World Special Reports Global Investing Hot Spots Net/Net Your Money , Your Future Investor Toolkit Smart Investing IOT : Powering the digital economy My Success Story Trading Nation Active/Passive Cambridge Cyber Summit The Fintech Effect CNBC First Class Shake it up Original Series Executive Edge Trading Nation Futures Now Retire Well The Pulse @ 1 Market The Bottom Line CNBC Events Cambridge Cyber Summit Davos Delivering Alpha eMerge Americas iCONIC Tour Net/Net Sohn Conference Follow CNBC EDITION RegisterLog InProfileEmail PreferencesPROSign OutProView AllNews & AnalysisVideoPRO TalksPRO UncutKensho StatsTake a TourSubscribeLIVE TVWatch CNBC TVWatch CNBC ProWatchlist X × × × × Tech Tech Mobile Social Media Enterprise Cybersecurity Tech Guide Bill Gates explains one area where Microsoft CEO Satya Nadella is a better leader than he is Bill Gates has reclaimed some oversight of Microsoft 's products under the leadership of Satya Nadella .
+RelationType: Work_For | Confidence=0.44613915541826493 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Nadella
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Anita Balakrishnan | @MsABalakrishnan Published 2:24 PM ET Mon , 25 Sept 2017 Updated 11:57 AM ET Tue , 26 Sept 2017 CNBC.com SHARES Getty Images Microsoft CEO Satya Nadella Microsoft co-founder Bill Gates says that the company 's CEO , Satya Nadella , is naturally great at a skill that took him years to learn : how to deliver feedback with empathy .
+RelationType: Work_For | Confidence=0.48317660388102346 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Gates
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  It was very hard-core , '' Gates told the magazine , citing his rivalry with Apple co-founder Steve Jobs .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Apple | EntityType2= PEOPLE | EntityValue2= Jobs
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Gates has reclaimed some oversight of Microsoft 's products under the leadership of Nadella , who said that Gates has an inimitable way of `` galvanizing '' workers to do their best .
+RelationType: Work_For | Confidence=0.38065775781969136 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Nadella
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 4(Overall: 35)
+Processing: https://www.wsj.com/articles/a-rare-joint-interview-with-microsoft-ceo-satya-nadella-and-bill-gates-1506358852
+=============== EXTRACTED RELATION ===============
+Sentence:  A Rare Joint Interview with Microsoft CEO Satya Nadella and Bill Gates - WSJ
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Microsoft | EntityType2= PEOPLE | EntityValue2= Nadella
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 1(Overall: 36)
+Processing: https://www.linkedin.com/in/williamhgates
+Program could not extract text content from this web site; moving to the next one...
+Processing: https://twitter.com/billgates
+Relations extracted from this website: 0(Overall: 36)
+Pruning relations below threshold...
+Number of tuples after pruning: 9
+== == == == == == == == == ALL RELATIONS == == == == == == == == =
+Relation Type: Work_For | Confidence: 0.554 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Bill (PEOPLE)
+Relation Type: Work_For | Confidence: 0.497 | Entity # 1: Google (ORGANIZATION)               	 |Entity # 2: Gates (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: Facebook (ORGANIZATION)               	 |Entity # 2: Zuckerberg (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Myhrvold (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: Apple (ORGANIZATION)               	 |Entity # 2: Jobs (PEOPLE)
+Relation Type: Work_For | Confidence: 0.465 | Entity # 1: Amazon (ORGANIZATION)               	 |Entity # 2: Bezos (PEOPLE)
+Relation Type: Work_For | Confidence: 0.446 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Nadella (PEOPLE)
+Relation Type: Work_For | Confidence: 0.444 | Entity # 1: Hathaway (ORGANIZATION)               	 |Entity # 2: Buffett (PEOPLE)
+Relation Type: Work_For | Confidence: 0.435 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Paul (PEOPLE)
+=========== Iteration: 2 - Query: zuckerberg facebook ===========
+Processing: https://www.facebook.com/zuck
+=============== EXTRACTED RELATION ===============
+Sentence:  - Albert EinsteinFavoritesMusicLCD SoundsystemBooksPlatoMoviesDisney PixarTelevisionThe West WingAthletesSamyr LaineSports TeamsYankeesSportsFencingOtherLotus Thai Bistro , Beast , Cesar Millan , Palo Alto Sol Restaurant , Sid Meier 's Civilization , Steve Jobs , Andy Samberg , Techmeme , Auggie , Edgewood , George Takei , Kirkland House , Kirkland House , Tech Insider , L.A. Burdick Chocolates , Presiden Joko Widodo , McDonald 's , Volkswagen , Chris Christie , Facebook Games , In-N-Out Burger , Schaub 's Meat Fish & Poultry , Garden Fresh , Palo Alto , Cory Booker , Mark Slee , Open Graph Protocol , Wikipedia , Taqueria La Bamba , Palo Alto Sol , Fuki Sushi , Neytiri , Ron Conway , Jake Sully , Harvard Computer Science , Game Day 2009 , Catan , Blowfish Sushi , Facebook Site Governance , Gary Vaynerchuk , Edward Zuckerberg , D.D.S. , F.A.G.D. , Zhang Yimou , Thrift , H&R Block , Dwayne The Rock Johnson , Emmanuel Macron , Harvard University , Ken Mehlman , The White House , Trevor Noah , Jim Breyer , Mitt Romney , Paul Ryan , Tomi Lahren , Larry Brilliant , Cori Bargmann , Biohub , MTV , IRONMAN , Tim O'Reilly , Andela , Leila Janah , Michelle Obama , Scobleizer , Hamilton : An American Musical , Joi Ito , Zuckerberg Education Ventures , Humans of New York , Messenger , Howard Hughes Medical Institute , Loic Le Meur , Chan Zuckerberg Initiative , Zuckerberg San Francisco General , San Francisco General Hospital Foundation , Breakthrough , POTUS 44 , The Primary School , Xi 's Visit , Summit Public Schools , Business Insider , Salon , Vox , Facebook HQ , NPR , Big History Project , Travis Kalanick , WIRED , Defense Advanced Research Projects Agency - DARPA , Lea Michele , iTunes , AltSchool , Eidolon , Hillary Clinton , Recode , The Wall Street Journal , VICE News , Ben Parr , Walt Mossberg , Bill & Melinda Gates Foundation , Juan Manuel Santos - Presidente , Seth Rogen , James Franco , A Year of Books , The Obama White House , Q&A with Mark , Trey Ratcliff , Facebook AI Research , Yann LeCun , Tsinghua University , Doctors Without Borders / Médecins Sans Frontières -LRB- MSF -RRB- , Nick Bilton , Melinda Gates , Sue Desmond-Hellmann , relinquishment.org , Ezra Klein , Dohatsuten , Pete Cashmore , I fucking love science , Narendra Modi , Jose Antonio Vargas , Facebook Ref , Nick Josefowitz , Senator Rand Paul , Rand Paul , Marco Rubio , Senator Marco Rubio , Oculus , Nicholas Kristof , Art of FB , Arianna Huffington , Big Green Egg , Dharma Comics , Fareed Zakaria , Internet.org by Facebook , Palo Alto Police Department , Vin Diesel , 99 Ranch Market , 99 Ranch Market 大華超級市場 , FB Fox , FWD.us , Lean In , David Sedaris , Kari Says No To , La Ciccia , IDEO.org , Community Voices from Facebook , Mitik , SpaceX , Hacker Square , Dianna Agron , Olympic , Oliver , CLANG , What Should We Call Me ?
+RelationType: Work_For | Confidence=0.5329250731388903 | EntityType1= ORGANIZATION | EntityValue1= University | EntityType2= PEOPLE | EntityValue2= Johnson
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 1(Overall: 10)
+Processing: https://www.nytimes.com/2017/09/29/opinion/mark-zuckerberg-facebook.html
+=============== EXTRACTED RELATION ===============
+Sentence:  LEARN MORE '' Sections Home Search Skip to content Skip to navigation View mobile version The New York Times Opinion | Zuckerberg 's Preposterous Defense of Facebook Search Subscribe Now Log In 0 Settings Close search Site Search Navigation Search NYTimes.com Clear this text input Go https://nyti.ms/2yxUydy Loading ... See next articles See previous articles Site Navigation Site Mobile Navigation Advertisement Supported by Opinion | Contributing Op-Ed Writer Zuckerberg 's Preposterous Defense of Facebook Zeynep Tufekci SEPT. 29 , 2017 Continue reading the main story Share This Page Continue reading the main story Photo Mark Zuckerberg , shown in Spain last year , defended his company this week from President Trump 's assertion that `` Facebook was always anti-Trump . ''
+RelationType: Work_For | Confidence=0.34954502667237264 | EntityType1= ORGANIZATION | EntityValue1= Times | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Credit Pau Barrena/Bloomberg Responding to President Trump 's tweet this week that `` Facebook was always anti-Trump , '' Mark Zuckerberg , the chief executive of Facebook , defended the company by noting that Mr. Trump 's opponents also criticize it -- as having aided Mr. Trump .
+RelationType: Work_For | Confidence=0.39297488784503154 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  He has correctly pointed out that Facebook had been a boon for right-wing groups , especially of the alt-right and Breitbart variety .
+RelationType: Work_For | Confidence=0.2485600237446455 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Breitbart
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Zeynep Tufekci -LRB- @zeynep -RRB- , an associate professor at the School of Information and Library Science at the University of North Carolina , is the author of `` Twitter and Tear Gas : The Power and Fragility of Networked Protest '' and a contributing opinion writer .
+RelationType: Work_For | Confidence=0.37788167164440073 | EntityType1= ORGANIZATION | EntityValue1= School | EntityType2= PEOPLE | EntityValue2= Tufekci
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 4(Overall: 14)
+Processing: https://en.wikipedia.org/wiki/Mark_Zuckerberg
+=============== EXTRACTED RELATION ===============
+Sentence:  Napster co-founder Sean Parker , a close friend , notes that Zuckerberg was `` really into Greek odysseys and all that stuff '' , recalling how he once quoted lines from the Roman epic poem Aeneid , by Virgil , during a Facebook product conference .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Napster | EntityType2= PEOPLE | EntityValue2= Parker
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  They began with Columbia University , New York University , Stanford , Dartmouth , Cornell , University of Pennsylvania , Brown , and Yale .
+RelationType: Work_For | Confidence=0.49744828160720905 | EntityType1= ORGANIZATION | EntityValue1= University | EntityType2= PEOPLE | EntityValue2= Brown
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- 45 -RSB- Earlier , in April 2009 , Zuckerberg sought the advice of former Netscape CFO Peter Currie about financing strategies for Facebook .
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Netscape | EntityType2= PEOPLE | EntityValue2= Currie
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- 48 -RSB- The company provided music , food , and beer at the hackathons , and many Facebook staff members , including Zuckerberg , regularly attended .
+RelationType: Work_For | Confidence=0.49490177737654334 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- 77 -RSB- Pakistan criminal investigation In June 2010 , Pakistani Deputy Attorney General Muhammad Azhar Sidiqque launched a criminal investigation into Zuckerberg and Facebook co-founders Dustin Moskovitz and Chris Hughes after a `` Draw Muhammad '' contest was hosted on Facebook .
+RelationType: Work_For | Confidence=0.2941695469702862 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Sidiqque
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Facebook spokesman Barry Schnitt told a reporter that Ceglia 's counsel had unsuccessfully sought an out-of-court settlement .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Schnitt
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Karel Baloun , a former senior engineer at Facebook , notes that the `` image of Zuckerberg as a socially inept nerd is overstated ... It is fiction ... '' He likewise dismisses the film 's assertion that he `` would deliberately betray a friend '' .
+RelationType: Work_For | Confidence=0.33036043219785877 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Baloun
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Santa Clara County Registrar of Voters Spokeswoman , Elma Rosas , told Bloomberg that Zuckerberg is listed as `` no preference '' on voter rolls , and he voted in at least two of the past three general elections , in 2008 and 2012 .
+RelationType: Work_For | Confidence=0.31977719382897185 | EntityType1= ORGANIZATION | EntityValue1= Registrar | EntityType2= PEOPLE | EntityValue2= Rosas
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Zuckerberg 's particular interest on this occasion was education reform , and Christie 's education reform work focused on teachers unions and the expansion of charter schools .
+RelationType: Work_For | Confidence=0.2955439806747272 | EntityType1= ORGANIZATION | EntityValue1= Christie | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- 138 -RSB- In December 2012 , Zuckerberg donated 18 million shares to the Silicon Valley Community Foundation , a community organization that includes education in its list of grant-making areas .
+RelationType: Work_For | Confidence=0.39302522623603237 | EntityType1= ORGANIZATION | EntityValue1= Foundation | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` Facebook Surges and Mark Zuckerberg Pockets $ 3.8 Billion '' .
+RelationType: Work_For | Confidence=0.31714346157973217 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` Facebook IPO sees Winklevoss twins heading for $ 300m fortune '' .
+RelationType: Work_For | Confidence=0.3581812442785631 | EntityType1= ORGANIZATION | EntityValue1= IPO | EntityType2= PEOPLE | EntityValue2= Winklevoss
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` Yu , Zuckerberg and the Facebook fallout '' .
+RelationType: Work_For | Confidence=0.2877915532224438 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Yu
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In a back-to-the-future move , former Netscape CFO Peter Currie will be the key adviser to Facebook about financial matters , until a new search for a CFO is found , sources said .
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Netscape | EntityType2= PEOPLE | EntityValue2= Currie
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` Is the Facebook movie the truth about Mark Zuckerberg '' BBC , September 30 , 2010 ^ `` The Facebook Effect : The Inside Story of the Company That Is Connecting the World '' , release date February 1 , 2011 ^ `` Facebook Creator Mark Zuckerberg to Get Yellow on The Simpsons '' .
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  ^ `` Facebook founder Mark Zuckerberg learn chinese every morning '' .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  ^ `` Facebook founder Mark Zuckerberg to become a father '' .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` Pope meets with Facebook founder Mark Zuckerberg '' .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Facebook founder Mark Zuckerberg gave the commencement address at Harvard University on Thursday , closing his speech by sharing a Jewish prayer called the `` Mi Shebeirach , '' which he said he recites whenever he faces a big challenge and which he sings to his daughter , thinking of her future , when he tucks her in at night .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` After Abandoning Atheism , Facebook Founder Mark Zuckerberg Reveals the Prayer He Sings to His Daughter Every Night Before Bed '' .
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 20(Overall: 34)
+Processing: http://nymag.com/selectall/2017/10/does-even-mark-zuckerberg-know-what-facebook-is.html
+=============== EXTRACTED RELATION ===============
+Sentence:  In January , Facebook CEO Mark Zuckerberg took on a personal challenge to have visited every state by the end of the year .
+RelationType: Work_For | Confidence=0.3401856386166507 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Maybe Facebook is a church and Zuckerberg is offering his benedictions .
+RelationType: Work_For | Confidence=0.2317309104507755 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Hyperpartisan sites like TruthFeed and Infowars now made up what Yochai Benkler of Harvard 's Berkman Klein Center for Internet and Society called a right-wing social-media `` attention backbone , '' through which conspiracy-mongering and disinformation traveled up to legitimating sources and with which extreme actors could set the parameters of political conversation , as Breitbart did with immigration .
+RelationType: Work_For | Confidence=0.37154141271159097 | EntityType1= ORGANIZATION | EntityValue1= Center | EntityType2= PEOPLE | EntityValue2= Benkler
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In his January post , Zuckerberg was still disinclined to place specific blame on Facebook , but he could certainly see the wreckage both to the liberal political order and to his company 's brand .
+RelationType: Work_For | Confidence=0.2392222426437238 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In late September , Zuckerberg apologized for being initially `` dismissive '' about the problem of misinformation but insisted Facebook 's `` broader impact '' on politics was more important .
+RelationType: Work_For | Confidence=0.3110445107596104 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Planetary technical systems like Facebook , David Banks , a SUNY Albany professor who studies large technical systems , told me , `` do n't want to be in an environment '' -- - natural , legal , political , social -- `` they want to be the environment . ''
+RelationType: Work_For | Confidence=0.3728396298922265 | EntityType1= ORGANIZATION | EntityValue1= Albany | EntityType2= PEOPLE | EntityValue2= Banks
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` It should be illegal for foreign governments to buy political ads , '' said Tim Wu , the Columbia Law School professor and author of The Attention Merchants .
+RelationType: Work_For | Confidence=0.47006441954382633 | EntityType1= ORGANIZATION | EntityValue1= School | EntityType2= PEOPLE | EntityValue2= Wu
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 7(Overall: 41)
+Processing: https://www.washingtonpost.com/business/economy/obama-tried-to-give-zuckerberg-a-wake-up-call-over-fake-news-on-facebook/2017/09/24/15d19b12-ddac-4ad5-ac6e-ef909e1c1284_story.html
+=============== EXTRACTED RELATION ===============
+Sentence:  Nine days after Facebook chief executive Mark Zuckerberg dismissed as `` crazy '' the idea that fake news on his company 's social network played a key role in the U.S. election , President Barack Obama pulled the youthful tech billionaire aside and delivered what he hoped would be a wake-up call .
+RelationType: Work_For | Confidence=0.35083324343621886 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` There 's been a systematic failure of responsibility '' on Facebook 's part , said Zeynep Tufekci , as associate professor at the University of North Carolina at Chapel Hill who studies social media companies ' impact on society and governments .
+RelationType: Work_For | Confidence=0.5046277421032753 | EntityType1= ORGANIZATION | EntityValue1= University | EntityType2= PEOPLE | EntityValue2= Tufekci
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  In the aftermath of the December 2015 shooting in San Bernardino , Calif. , the president dispatched members of his national security team -- including Chief of Staff Denis McDonough , Homeland Security Secretary Jeh Johnson and top counterterrorism adviser Lisa Monaco -- to huddle with leading Silicon Valley executives over ways to thwart the Islamic State 's practice of using U.S.-based technology platforms to recruit members and inspire attacks .
+RelationType: Work_For | Confidence=0.42411844685147665 | EntityType1= ORGANIZATION | EntityValue1= Security | EntityType2= PEOPLE | EntityValue2= Johnson
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  -LSB- Congressional investigations into alleged Russian hacking begin without end in sight -RSB- Sen. Mark R. Warner , vice chairman of the Senate Intelligence Committee , initially was n't sure what to make of Facebook 's role .
+RelationType: Work_For | Confidence=0.6664929935278026 | EntityType1= ORGANIZATION | EntityValue1= Committee | EntityType2= PEOPLE | EntityValue2= Warner
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 4(Overall: 45)
+Processing: https://www.cnbc.com/video/2017/10/04/jason-calacanis-you-cannot-trust-facebook-or-mark-zuckerberg.html
+=============== EXTRACTED RELATION ===============
+Sentence:  03:26 03:26 | 14 Hrs Ago CVS might become one stop shop with potential Aetna deal : Analyst 00:47 00:47 | 14 Hrs Ago Merck pulls European application for lung cancer drug ' CEO Interviews ` 03:53 03:53 | 20 Hrs Ago Expedia CEO responds to stock decline after earnings miss 04:33 04:33 | 3:20 PM ET Thu , 26 Oct 2017 Dunkin' CEO Nigel Travis on streamlining menu 01:59 01:59 | 12:27 PM ET Thu , 26 Oct 2017 Bank of America CEO Brian Moynihan : No central bank is going to unwind and hurt the economy 03:04 03:04 | 10:37 AM ET Thu , 26 Oct 2017 CME Group CEO : Tax reform would allow us to reinvest in our business 16:54 16:54 | 7:15 AM ET Thu , 26 Oct 2017 Comcast CEO : We had a very strong third quarter 02:27 02:27 | 12:00 PM ET Tue , 24 Oct 2017 Leon Cooperman : Market is not cheap but not expensive 03:40 03:40 | 6:50 AM ET Thu , 26 Oct 2017 Southwest Airlines CEO : We had a solid third quarter despite hurricanes 12:34 12:34 | 4:17 PM ET Wed , 25 Oct 2017 Full interview with Mark Parker 02:36 02:36 | 4:09 PM ET Wed , 25 Oct 2017 Nike CEO Mark Parker : Incredibly critical we serve the consumer at a higher level 08:22 08:22 | 7:19 AM ET Tue , 24 Oct 2017 Watch CNBC 's full interview with BlackRock CEO Larry Fink 01:35 01:35 | 11:31 AM ET Wed , 25 Oct 2017 Softbank CEO Masa Son : Robots will become smarter than us 03:11 03:11 | 11:23 AM ET Wed , 25 Oct 2017 Akamai Technologies CEO on improving cloud security 07:53 07:53 | 11:21 AM ET Wed , 25 Oct 2017 Hudson 's Bay chairman on selling Lord & Taylor Building to WeWork 03:02 03:02 | 4:31 PM ET Tue , 24 Oct 2017 Millennial-aged retail account clients up 35 % : TD Ameritrade CEO 03:14 03:14 | 1:47 PM ET Tue , 24 Oct 2017 Shares of Polaris rise on strong earnings beat 02:30 02:30 | 7:59 AM ET Tue , 24 Oct 2017 Blackstone CEO : Current tax rate puts US at ` disadvantage ' 03:00 03:00 | 7:17 AM ET Tue , 24 Oct 2017 BlackRock CEO : There 's very little tax reform ` baked in ' markets 04:08 04:08 | 7:15 AM ET Tue , 24 Oct 2017 BlackRock CEO : Investors have a lot of money to put to work 02:05 02:05 | 7:07 AM ET Tue , 24 Oct 2017 Eli Lilly raises adjusted full-year outlook : CEO 03:02 03:02 | 7:11 AM ET Tue , 24 Oct 2017 Eli Lilly CEO : Time for ` real conversation ' on out-of-pocket drug costs 04:09 04:09 | 9:10 AM ET Mon , 23 Oct 2017 Cisco CEO : Cyber threat moving at rapid pace 38:55 38:55 | 7:02 AM ET Mon , 23 Oct 2017 Watch CNBC 's full interview with Saudi Prince Alwaleed Bin Talal 03:30 03:30 | 2:49 PM ET Fri , 20 Oct 2017 Houston Rockets ' James Harden talks basketball with CNBC 05:05 05:05 | 1:17 PM ET Fri , 20 Oct 2017 Tilman Fertitta 's billion dollar buy 21:37 21:37 | 9:43 AM ET Fri , 20 Oct 2017 Watch CNBC 's full exclusive interview with General Electric CEO John Flannery 03:51 03:51 | 8:16 AM ET Fri , 20 Oct 2017 Proofpoint CEO : Taking on cyber giants 02:29 02:29 | 8:06 AM ET Fri , 20 Oct 2017 Valuations do n't tell you where the markets are going : Fisher Investments Executive Chairman 02:57 02:57 | 3:12 PM ET Thu , 19 Oct 2017 BB&T ; CEO : Trying to do the right thing for the long term 01:34 01:34 | 11:49 AM ET Thu , 19 Oct 2017 Fanduel CEO : We drive up consumption of sports 04:21 04:21 | 8:38 AM ET Thu , 19 Oct 2017 MongoDB CEO discusses IPO ' Must Watch Videos ` 06:23 06:23 | 20 Hrs Ago Bitcoin 's origin story remains shrouded in mystery .
+RelationType: Work_For | Confidence=0.44613915541826493 | EntityType1= ORGANIZATION | EntityValue1= Nike | EntityType2= PEOPLE | EntityValue2= Parker
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 1(Overall: 46)
+Processing: http://money.cnn.com/2017/06/22/technology/facebook-zuckerberg-interview/index.html
+=============== EXTRACTED RELATION ===============
+Sentence:  business culture gadgets future startups Mark Zuckerberg explains why he just changed Facebook 's mission by Heather Kelly @heatherkelly June 22 , 2017 : 4:06 PM ET Zuckerberg : ` We have a responsibility to do more ' Mark Zuckerberg has spent the last dozen years making sure you know what your friends ' babies look like and what your high school friends think about politics .
+RelationType: Work_For | Confidence=0.2953333962150879 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Kelly
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 1(Overall: 47)
+Processing: https://www.bloomberg.com/news/articles/2017-01-18/this-team-runs-mark-zuckerberg-s-facebook-page
+=============== EXTRACTED RELATION ===============
+Sentence:  `` What he 's learned over the last two years is that his image in the digital domain needs to be controlled , '' says David Charron , who teaches entrepreneurship at the University of California at Berkeley .
+RelationType: Work_For | Confidence=0.4973265331450114 | EntityType1= ORGANIZATION | EntityValue1= University | EntityType2= PEOPLE | EntityValue2= Charron
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  Company spokeswoman Vanessa Chan says Facebook is an easy way for executives to connect with various audiences .
+RelationType: Work_For | Confidence=0.3661807109019618 | EntityType1= ORGANIZATION | EntityValue1= Facebook | EntityType2= PEOPLE | EntityValue2= Chan
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` I do n't know that there are a lot of other business leaders that would find the same level of comfort sharing their personal and business stuff in the way that he does , '' says Fred Cook , director of the University of Southern California Center for Public Relations , who has worked with Jeff Bezos and Steve Jobs.Looking for game at Lake Naivasha in Kenya.Souce : FacebookFacebook 's a little different in that respect .
+RelationType: Work_For | Confidence=0.5304684761219525 | EntityType1= ORGANIZATION | EntityValue1= University | EntityType2= PEOPLE | EntityValue2= Bezos
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  `` If an 18-year-old thinks he 's coming across in an authentic way , that 's really something , '' says Cook.Leaving the Vatican.Source : Facebook Jarvis was Zuckerberg 's personal challenge for 2016 .
+RelationType: Work_For | Confidence=0.307562867679246 | EntityType1= ORGANIZATION | EntityValue1= Jarvis | EntityType2= PEOPLE | EntityValue2= Zuckerberg
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 4(Overall: 51)
+Processing: https://techcrunch.com/2017/10/25/hyper-local-giving/
+=============== EXTRACTED RELATION ===============
+Sentence:  Thanks , TC Team Disrupt BerlinAnnouncing the featured companies debuting in Startup Alley at Disrupt Berlin this December And save 30 % on tickets Philanthropy Facebook drops no-vote stock plan , Zuck will sell shares to fund philanthropy Dell Foundation pledges $ 36 million to Harvey relief effort How tech companies are helping Texans affected by Hurricane Harvey Browse more ... Mark Zuckerberg South Park slams Facebook for selling fake news Zuckerberg apologizes for his tone-deaf VR cartoon tour of Puerto Rico devastation Zuckerberg asks forgiveness , but Facebook needs change Browse more ... priscilla chan Mark Zuckerberg and Priscilla Chan welcome their second daughter , August , into the world Crunch Report | Airbnb Raises $ 1 Billion Mark Zuckerberg and Priscilla Chan are expecting another baby girl Browse more ... chan zuckerberg initiative Andela , a tech training and development outsourcer for African coders , raises $ 40M Facebook drops no-vote stock plan , Zuck will sell shares to fund philanthropy An insider 's take on the future of coding bootcamps Browse more ... Zuckerberg 's CZI donates to struggling towns near Facebook Posted Oct 25 , 2017 by Josh Constine -LRB- @joshconstine -RRB- 0 SHARES Next Story DoorDash CFO leaves less than one year after joining Facebook 's success has led to gentrification and hardship in some towns close to its Menlo Park headquarters .
+RelationType: Work_For | Confidence=0.3343823329089974 | EntityType1= ORGANIZATION | EntityValue1= Foundation | EntityType2= PEOPLE | EntityValue2= Zuck
+============== END OF RELATION DESC ==============
+=============== EXTRACTED RELATION ===============
+Sentence:  We love our community and are so proud to be raising our two daughters here , '' writes CZI co-founder Priscilla Chan , Mark Zuckerberg 's wife .
+RelationType: Work_For | Confidence=0.48466115883664407 | EntityType1= ORGANIZATION | EntityValue1= CZI | EntityType2= PEOPLE | EntityValue2= Chan
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 2(Overall: 53)
+Processing: https://www.engadget.com/2017/10/24/mark-zuckerberg-is-using-his-facebook-fortune-to-tackle-social-i/
+=============== EXTRACTED RELATION ===============
+Sentence:  By D. Lumb , 8h ago save Save share View 9h 9h ago in Mobile Now T-Mobile is working with Project Loon in Puerto Rico It joins AT&T in using the balloons to distribute LTE .
+RelationType: Work_For | Confidence=0.32672270031643963 | EntityType1= ORGANIZATION | EntityValue1= T-Mobile | EntityType2= PEOPLE | EntityValue2= Lumb
+============== END OF RELATION DESC ==============
+Relations extracted from this website: 1(Overall: 54)
+Pruning relations below threshold...
+Number of tuples after pruning: 12
+== == == == == == == == == ALL RELATIONS == == == == == == == == =
+Relation Type: Work_For | Confidence: 0.554 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Bill (PEOPLE)
+Relation Type: Work_For | Confidence: 0.497 | Entity # 1: Google (ORGANIZATION)               	 |Entity # 2: Gates (PEOPLE)
+Relation Type: Work_For | Confidence: 0.495 | Entity # 1: Facebook (ORGANIZATION)               	 |Entity # 2: Zuckerberg (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Myhrvold (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: Apple (ORGANIZATION)               	 |Entity # 2: Jobs (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: Napster (ORGANIZATION)               	 |Entity # 2: Parker (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: Facebook (ORGANIZATION)               	 |Entity # 2: Schnitt (PEOPLE)
+Relation Type: Work_For | Confidence: 0.485 | Entity # 1: CZI (ORGANIZATION)               	 |Entity # 2: Chan (PEOPLE)
+Relation Type: Work_For | Confidence: 0.446 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Nadella (PEOPLE)
+Relation Type: Work_For | Confidence: 0.444 | Entity # 1: Hathaway (ORGANIZATION)               	 |Entity # 2: Buffett (PEOPLE)
+Relation Type: Work_For | Confidence: 0.435 | Entity # 1: Microsoft (ORGANIZATION)               	 |Entity # 2: Paul (PEOPLE)
+Relation Type: Work_For | Confidence: 0.373 | Entity # 1: Albany (ORGANIZATION)               	 |Entity # 2: Banks (PEOPLE)
+Program reached 12 number of tuples. Shutting down...

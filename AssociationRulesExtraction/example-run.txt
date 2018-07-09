@@ -1,0 +1,22 @@
+==Frequent itemsets (min_sup=17%)
+[Alteration-2], 66%
+[MANHATTAN], 50%
+[Very Cheap], 49%
+[A/P ENTIRE], 41%
+[MANHATTAN,Alteration-2], 38%
+[Alteration-2,A/P ENTIRE], 27%
+[Alteration-2,Very Cheap], 25%
+[MANHATTAN,Very Cheap], 22%
+[BROOKLYN], 22%
+[A/P ENTIRE,Very Cheap], 21%
+[Very expensive], 20%
+[PLAN EXAM - APPROVED], 19%
+[MANHATTAN,A/P ENTIRE], 18%
+[Alteration-2,PLAN EXAM - APPROVED], 17%
+[Alteration-3], 17%
+
+==High-confidence association rules (min_conf=65%)
+[Alteration-2] => [PLAN EXAM - APPROVED](Conf: 88%, Supp: 17%)
+[Alteration-2] => [MANHATTAN](Conf: 76%, Supp: 38%)
+[Alteration-2] => [A/P ENTIRE](Conf: 67%, Supp: 27%)
+
