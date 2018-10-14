@@ -11,7 +11,7 @@ upload: test-all
 	make clean
 
 run:
-	python3 index.py AIzaSyClVW-iN4ZPlOuWBPoZ_wPYCpGSCWT1LmI 009351493534667843800:hf-txjxwl2y 4 0.35 "bill gates microsoft" 10
+	python3 index.py [token] [token] 4 0.35 "bill gates microsoft" 10
 
 clean:
 	rm -f MANIFEST
